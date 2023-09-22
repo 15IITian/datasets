@@ -1,6 +1,6 @@
 # Contribute to the TFDS repository
 
-Thank you for your interest to our library ! We are thrilled to have such a
+Thank you for your interest to our library ! . We are thrilled to have such a
 motivated community.
 
 ## Get started
